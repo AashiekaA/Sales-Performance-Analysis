@@ -1,17 +1,21 @@
 ## 🔗 Sales-Performance-Analysis
-Power BI dashboard to analyze sales, profit, and customer trends, featuring KPIs, Sales vs Profit analysis, and category and city-level insights.
-
+Interactive Power BI dashboard analyzing sales performance, profitability, and regional trends with KPI tracking and dynamic insights.
 ---
 
 ## 🔗 Overview
 
-This project presents an end-to-end data analysis workflow using Power BI to evaluate sales performance and profitability. The process began with data loading and cleaning using Power Query, where inconsistencies were handled to ensure data quality.
+This project demonstrates an end-to-end data analysis workflow using Power BI to evaluate sales performance and profitability. The dataset was processed and validated to ensure consistency, followed by the creation of key business metrics using DAX such as Total Sales, Total Profit, Profit Margin (%), and Average Order Value (AOV).
 
-A data model was then established, followed by the creation of calculated measures using DAX, including Total Sales, Total Profit, Profit Margin (%), Average Order Value (AOV) and Total Quantity.
+An interactive dashboard was built to analyze sales trends, category and sub-category performance, and city-level distribution. Cross-filtering between visuals enables dynamic data exploration and deeper insight generation.
 
-The cleaned and transformed data was used to build an interactive dashboard featuring KPI cards, trend analysis (Sales vs Profit over time), category and sub-category performance, and city-level sales distribution. Cross-filtering between visuals enables users to dynamically explore the data and uncover insights.
+---
 
-Overall, this dashboard helps identify top-performing categories, track profitability trends, and support data-driven decision-making.
+## 🔗 Objectives
+
+* Track overall sales and profit performance
+* Analyze category and sub-category trends
+* Identify top-performing products and cities
+* Enable interactive data exploration
 
 ---
 
@@ -49,12 +53,19 @@ Overall, this dashboard helps identify top-performing categories, track profitab
 
 ---
 
+## 🔗 Dataset
+
+Dataset sourced from Kaggle: Sales Dataset
+
+---
+
 ## 🔗 Key Insights
 
-* Office Supplies contribute the highest share of revenue
-* A small number of sub-categories drive a large portion of total sales
-* Sales and profit show consistent growth trends
-* Certain cities outperform others in overall performance
+* Office Supplies contribute the highest share of total revenue
+* The top 3 sub-categories account for a significant portion of overall sales
+* Sales and profit exhibit a consistent upward trend over time
+* Profit margins remain relatively stable across categories
+* Certain cities consistently outperform others in total sales
 
 ---
 
