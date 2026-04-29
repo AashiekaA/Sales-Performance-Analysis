@@ -1,9 +1,9 @@
-## 📈 Sales-Performance-Analysis
+## 🔗 Sales-Performance-Analysis
 Power BI dashboard to analyze sales, profit, and customer trends, featuring KPIs, Sales vs Profit analysis, and category and city-level insights.
 
 ---
 
-## 📈 Overview
+## 🔗 Overview
 
 This project presents an end-to-end data analysis workflow using Power BI to evaluate sales performance and profitability. The process began with data loading and cleaning using Power Query, where inconsistencies were handled to ensure data quality.
 
@@ -15,7 +15,7 @@ Overall, this dashboard helps identify top-performing categories, track profitab
 
 ---
 
-## 📈 Key Metrics
+## 🔗 Key Metrics
 
 * Total Sales
 * Total Profit
@@ -25,13 +25,13 @@ Overall, this dashboard helps identify top-performing categories, track profitab
 
 ---
 
-## 📈 Dashboard Preview
+## 🔗 Dashboard Preview
 
 ![Dashboard](https://github.com/AashiekaA/Sales-Performance-Analysis/blob/0150a1bd30a2c6dd4cec0c71a40781282cceefb7/dashboard.png)
 
 ---
 
-## 📈 Features
+## 🔗 Features
 
 * Sales vs Profit Trend Over Time
 * Sales vs Profit by Category
@@ -41,7 +41,7 @@ Overall, this dashboard helps identify top-performing categories, track profitab
 
 ---
 
-## 📈 Tools Used
+## 🔗 Tools Used
 
 * Power BI
 * Power Query
@@ -49,7 +49,7 @@ Overall, this dashboard helps identify top-performing categories, track profitab
 
 ---
 
-## 📈 Key Insights
+## 🔗 Key Insights
 
 * Office Supplies contribute the highest share of revenue
 * A small number of sub-categories drive a large portion of total sales
@@ -58,7 +58,7 @@ Overall, this dashboard helps identify top-performing categories, track profitab
 
 ---
 
-## 📈 How to Use
+## 🔗 How to Use
 
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
